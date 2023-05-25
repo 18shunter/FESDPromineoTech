@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(177, 95, 95)
+}
+
+h1 {
+    color:goldenrod;
+}
+
+div {
+    background-color: rgb(110, 185, 66);
+    border-style: solid;
+    border-color: rgb(41, 4, 129);
+    border-radius: 5px; 
+}
+
+h2 { 
+    background-color: rgb(110, 185, 66);
+    border-style: solid;
+    border-color: rgb(62, 38, 129);
+    border-radius: 5px; 
+}
+
+.shadow-text {
+    text-shadow: grey 1px 1px
+}
